@@ -8,14 +8,14 @@ npm config rm https-proxy
 
 if [ -z "$1" ]
   then
-    proxy=172.31.1.6
+    proxy=172.31.2.3
   else
     if [ $1 -eq 0 ]
         then
             source $HOME/.bashrc
             exit
     else
-        proxy="172.31.1.$1"
+        proxy="172.31.2.$1"
     fi
 fi
 
