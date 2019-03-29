@@ -3,14 +3,14 @@
 
 Set proxy in the network settings as shown in the image below .
 ![](scr1.png)  
-Proxies working: 172.31.1.3 and 172.31.1.6     	
+Proxies working: 172.31.2.3 and 172.31.2.4     	
 Port: 8080
 
 # Easy way to set proxy :
 # Running proxy.sh
 
 - open terminal
-- to set proxy run `./proxy.sh "3 or 6"`
+- to set proxy run `./proxy.sh "3 or 4"`
 - to unset proxy run `./proxy.sh`
 
 # Manually setting Proxy :
