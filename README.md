@@ -2,7 +2,7 @@
 
 
 Set proxy in the network settings as shown in the image below .
-![](scr1.png)  
+![](/scr1.png)  
 Proxies working: 172.31.2.3 and 172.31.2.4     	
 Port: 8080
 
